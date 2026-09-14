@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "categories": [
+    {"major": 20, "minor": 1, "name": "突击步枪", "enabled": true, "notes": "示例：只保留项目实际采用的分类。"},
+    {"major": 70, "minor": 1, "name": "可玩角色", "enabled": true, "notes": "示例：可按实际项目新增或调整未使用的类别。"}
+  ],
+  "reserved_ids": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "resources": [
+    {"file": "icon_weapon_example.png", "major": 20, "minor": 1, "description": "示例武器图标"},
+    {"file": "por_character_example.png", "major": 70, "minor": 1, "description": "示例角色大图"}
+  ]
+}
